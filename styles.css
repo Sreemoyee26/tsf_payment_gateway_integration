@@ -1,0 +1,35 @@
+.navbar{
+    border-radius: 4px;
+    opacity: 0.9;
+    background-color: white;
+    height: 64px;
+}
+
+.navbar-brand{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+.logo{
+    position: absolute;
+    opacity: 70%;
+    padding-top: 83px;
+    padding-left: 20px;
+}
+
+.company{
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 240px;
+    font-family: 'Tourney', cursive;
+    color: khaki;
+}
+
+.donate{
+    color: tomato;
+    position: absolute;
+    margin-top: 168px;
+    margin-left: 935px;
+}
