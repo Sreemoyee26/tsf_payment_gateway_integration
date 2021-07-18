@@ -33,3 +33,11 @@
     margin-top: 168px;
     margin-left: 935px;
 }
+
+#slider{
+    position: absolute;
+    bottom: 2px;
+    width:80%;
+    height:40%;
+    margin-left:10%;
+}
